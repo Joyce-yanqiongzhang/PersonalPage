@@ -1,0 +1,68 @@
+# jemdoc: menu{MENU}{example.html}
+= Yanqiong Zhang (Joyce)
+\n
+
+~~~
+{}{img_left}{pagepic.jpeg}{alt text}{250px}{350px}{IMGLINKTARGET}
+== BIOGRAPHY
+
+I am a recent-graduated Master student looking for PhD opportunities. \n 
+My research interest is *machine learning*, *robotic creativity*, *computer vision* and *motion data processing*. \n
+More specifically, I am interested in developing an *auto choreography model* that is able to generate novel motion(dance moves) that greatly expresses the audio input(given music), after being trained with the videos of skilful and prestigious dancers.\n
+\n
+=== CONTACT
+[joyce.yanqiong.zhang@outlook.com]
+
+~~~
+
+
+ 
+== EDUCATION BACKGROUNG
+=== Durham University, Department of Computer Science
+*/MSc in Internet System & E-business; (Master’s degree with distinction. All modules are above first class)/*\n
+Major Courses: OOP(Object Oriented Programming in Java and UML), Distributed Computing, Web Technology, Software Engineering for the Internet, Digital Imaging, Enterprise and Distributed Systems etc;\n
+\n
+
+=== Central University of Finance and Economics, School of Information
+*/BSc in Electronic Commerce; (Grade: 84%)/*\n
+Major Courses: Java Programming, Advanced Mathematics, IT Project Management, Info System, Computer Network, Statistics, 
+Software Developing Tools, Linear Algebra, Database System, Corporate Wealth Management, Finance, Macro-Economics etc.\n
+\n
+
+=== Other (Coursera)
+Major Courses: Machine Learning, Neural Networks and Deep Learning, Improving Neural Networks - Hyper parameter tuning, Regularisation and Optimisation, Convolutional Neural Networks, 
+Sequence Model, Algorithms Part I, Mathematical thinking, etc.\n
+\n
+
+== RESEARCH PROJECTS
+=== Projects During Postgraduate Study
+*Web Projects*\n
+*/Relevant Tech: JAVA, Python, JSP, Java servlet, PHP, sql, JavaScript (ajax), HTML, CSS/*
+- Online Board Game Platform Project
+- DUS (Durham University Sport) Online Booking System Project (Group Project) 
+- Game Record Management System Project 
+- Train Ticket Online Booking System Project
+\n
+
+*Server-Client Architecture Implementation Project*\n
+*/Relevant Tech: JAVA/*
+- DropFile Server System Project
+\n
+
+*Image Processing*\n
+*/Relavant Tech: MATLAB/*
+- Image Filters Implementation (Gaussian, Laplacian, LoG, Bilateral)
+\n
+
+=== Projects During Undergraduate Study
+*Web Projects*\n
+*/Relevant Tech: JAVA, Python, JSP, sql, JavaScript , HTML, CSS/*
+- Street Dance Community Website Project 
+- Inventory Management System Project (Group Project) 
+- Pet-Goods-Direct Online Business Platform Project
+\n
+
+== TECH SKILLS
+==== JAVA, Python, PHP, sql, MATLAB, Octave, TensorFlow, Keras, LaTex, JavaScript, HTML, CSS, C, etc.
+
+\n\n\n\n\n
